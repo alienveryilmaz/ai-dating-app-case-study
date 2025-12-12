@@ -1,6 +1,10 @@
 # TwoCAN — AI-Powered Dating App  
 ### Product Case Study (Private Code)
 
+👉 **Figma Design & Interactive Prototype**  
+https://www.figma.com/design/cv9260Az9fvnCRzdOgad3Z/TwoCan-PROTOTYPE
+
+
 > 🔒 **Source Code Privacy Notice**  
 > The source code of this project is private due to product confidentiality and NDA constraints.  
 > This repository serves as a **product, architecture, and AI system case study**.
