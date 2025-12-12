@@ -24,7 +24,7 @@ Only after this step can they access the platform and start matching with others
 
 ## 🔬 Scientific Foundation — 9 Types of Temperament
 
-At the core of TwoCAN lies the **Nine Types of Temperament Model** (9-Type Temperament System):
+At the core of TwoCAN lies the **Nine Types of Temperament Model** (9 Tip Mizaç Modeli):
 
 - A scientifically based temperament & character model
 - Focused on **core motivations, emotional patterns, and behavioral tendencies**
