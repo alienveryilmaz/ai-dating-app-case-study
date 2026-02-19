@@ -2,7 +2,7 @@
 ### Product Case Study (Private Code)
 
 👉 **Figma Design & Interactive Prototype**  
-https://www.figma.com/design/cv9260Az9fvnCRzdOgad3Z/TwoCan-PROTOTYPE
+https://www.figma.com/design/mcedXUwCVE1SOAwmbR6Zy1/TwoCan-PROTOTYPE---Publish
 
 
 > 🔒 **Source Code Privacy Notice**  
