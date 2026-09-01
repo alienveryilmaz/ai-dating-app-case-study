@@ -2,8 +2,8 @@
 
 **A production React Native application built on temperament-based compatibility, with a fine-tuned LLM and RAG system underneath it.**
 
-🎨 **Figma design & interactive prototype:** https://www.figma.com/proto/dotxElrUfZauIvt1yHfIsr/TwoCan
-📱 **Google Play:** https://play.google.com/store/apps/details?id=com.twocanapp *(limited release)*
+- 🎨 **Figma design & interactive prototype:** https://www.figma.com/proto/dotxElrUfZauIvt1yHfIsr/TwoCan
+- 📱 **Google Play:** https://play.google.com/store/apps/details?id=com.twocanapp *(limited release)*
 
 > **Source code notice**
 > The source code is private due to product confidentiality and NDA constraints.
